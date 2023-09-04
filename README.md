@@ -1,2 +1,2 @@
 # project-resolusi
-repository menyimpan rencana kedepannya
+Repository menyimpan rencana kedepannya
