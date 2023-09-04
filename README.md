@@ -1,2 +1,2 @@
-# projectresolusi
+# project-resolusi
 repository menyimpan rencana kedepannya
